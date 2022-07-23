@@ -4,7 +4,7 @@ Proyecto realizado con React-Redux, Redux Toolkit y Firebase. Creación de notas
 # Instalación
 
 - Clona el código `> git clone https://github.com/AyrDS/journal-app.git`
-- Corre el proyecto `> npm start`
+- Corre el proyecto `> npm run dev`
 
 
 # DEMO
